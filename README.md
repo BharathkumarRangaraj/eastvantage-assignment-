@@ -4,10 +4,10 @@ used Hooks(useState and useEffect)and axios for showing the name and email addre
 
 steps to clone and run the code in your machine
 1. Clone this repo in your Vscode.
-git remote add origin https://github.com/BharathkumarRangaraj/eastvantage-assignment-.git
-2. Run  `npm install`
+# git remote add origin https://github.com/BharathkumarRangaraj/eastvantage-assignment-.git
+2. Run #npm install
 to install all the dependencies in your app.
-3.`npm start`
+3.run  #npm start
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
