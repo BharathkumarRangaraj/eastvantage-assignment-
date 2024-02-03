@@ -1,5 +1,6 @@
 
-Functionality of this app is fetching the data from https://randomuser.me/api" this site using axios and showing the name and email address of user in webpage.
+Functionality of this app is fetching the data from https://randomuser.me/api" this site and displaying user name and email id dynamically whenever the refresh button clicked.
+used Hooks(useState and useEffect)and axios for showing the name and email address of user in webpage.
 
 steps to clone and run the code in your machine
 1. Clone this repo in your Vscode.
