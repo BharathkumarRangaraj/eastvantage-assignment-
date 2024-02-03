@@ -1,6 +1,6 @@
 import "./App.css";
 import { useEffect, useState } from "react";
-import axios from "axios";
+import axios 
 import { API } from "./const";
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
   async function getapi() {
     const responce = await axios.get(API);
     console.log(responce, "re");
-    setdata(responce.data.results);
+    setdata(responce?.data?.results);
   }
   //early returns
   if (!data[0]) return null;
